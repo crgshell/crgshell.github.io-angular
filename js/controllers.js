@@ -24,6 +24,6 @@ artistControllers.controller('DetailsController', ['$scope', '$http','$routePara
       $scope.nextItem = 0;
     }
 
-
   });
 }]);
+
